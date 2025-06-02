@@ -1,25 +1,32 @@
-### <div align="center">Empreender me ensinou a resolver problemas. Programar me permite escalar soluções. 🚀</div>  
-  
+<!-- Banner ou GIF de destaque -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Fernando%20Henrique%20Reis&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner do Fernando Henrique Reis"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FernandoHenriqueReis">
+    <img src="https://img.shields.io/github/followers/FernandoHenriqueReis?label=GitHub%20Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seulinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <!-- Adicione outros badges se quiser -->
+</p>
+
+---
+
+## 👋 Sobre mim
+
+"Transformo desafios em soluções inovadoras, unindo minha experiência nos negócios à paixão pela tecnologia. Mudança é meu combustível: sigo criando e inovando para entregar resultados que fazem a diferença."
 
 - 🔭 "Explorando novos horizontes, do mundo dos negócios para o universo da tecnologia.'  
-  
-
 - ❓ O que me trouxe até aqui? A vontade de transformar desafios em códigos e ideias em soluções.
-  
-  
-
 - ⚡"A mudança é meu combustível. Do mundo dos negócios para o universo tech, sigo criando, inovando e construindo. "
 
-  
-  
 
-<br/>  
+---
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+## 🛠️ Skills
 
 ### Frontend  
 <div align="center">  
@@ -46,42 +53,38 @@
 
 <br/>  
 
+---
 
-## Connect with me  
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **Meu Portfolio** | Site pessoal com meus principais projetos e informações. | [Acessar](https://github.com/FernandoHenriqueReis/portfolio) |
+| **API de Exemplo** | Uma API RESTful criada em Node.js para estudos. | [Acessar](https://github.com/FernandoHenriqueReis/api-exemplo) |
+| **Projeto Incrível** | Descrição rápida do projeto incrível. | [Acessar](https://github.com/FernandoHenriqueReis/projeto-incrivel) |
+
+<sub>**Dica:** Substitua os projetos acima pelos seus reais, com nome, descrição e link.</sub>
+
+---
+
+## 📊 Estatísticas GitHub
+
 <div align="center">
-<a href="https://github.com/FernandoHenriqueReis" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Fernando Dos Reis" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FernandoHenriqueReis&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoHenriqueReis&layout=compact&theme=radical" alt="Top Langs"/>
+</div>
 
-<br/>  
+---
 
+## 🌎 Onde me encontrar
 
-## Github Stats  
-  
+- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- [Seu site pessoal ou portfólio](https://seusite.com)
+- [Twitter/X](https://twitter.com/seutwitter)
+- [Email](mailto:seuemail@email.com)
 
-<br/>  
+---
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  Feito com ❤️ por Fernando Henrique Reis
+</p>
